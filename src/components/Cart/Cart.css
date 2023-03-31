@@ -1,0 +1,27 @@
+.cart-heading {
+    text-align: center;
+}
+
+.cart {
+    background-color: rgba(255, 153, 0, 0.3);
+    padding: 20px;
+    position: sticky;
+    top: 0;
+}
+
+.cart-g-total {
+    margin-top: 0px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    color: #0E161A;
+}
+
+.cart p {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    color: #2A414F;
+}
